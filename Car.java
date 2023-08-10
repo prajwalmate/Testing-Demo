@@ -18,7 +18,7 @@ public class Car {
 	}
 
 	public void setModelno(int modelno) {
-		this.modelno = modelno;
+		this.modelno = modelno;//CHANGE FOR MERGE CONFLICT
 	}
 
 	public long getPrice() {
