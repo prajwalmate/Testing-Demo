@@ -4,7 +4,7 @@ public class Car {
 	
 	private int modelno;
 	private long price;
-	private CarSpecs specs;  //has-A
+	private CarSpecs specs;  //has-A (changes made in USER B)
 	
 	public Car(int modelno, long price, CarSpecs specs) {
 		super();
