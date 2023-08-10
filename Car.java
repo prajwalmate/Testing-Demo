@@ -7,7 +7,7 @@ public class Car {
 	private CarSpecs specs;  //has-A (changes made in USER B)
 	
 	public Car(int modelno, long price, CarSpecs specs) {
-		super();
+		super();//Change
 		this.modelno = modelno;
 		this.price = price;
 		this.specs = specs;

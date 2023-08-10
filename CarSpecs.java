@@ -15,7 +15,7 @@ public class CarSpecs {
 		this.colour = colour;
 		this.make = make;
 		this.model = model;
-		this.man_year = man_year;
+		this.man_year = man_year;//Change
 	}
 	public String getColour() {
 		return colour;
